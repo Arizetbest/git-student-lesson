@@ -1,5 +1,4 @@
-My special album
+my special album
 will be a hit song of the year.
 
-The more you learn and practice, the faster you get a DevOps job.
-Don't give up.
+Github is important to learn and master it as a devOps Engineer. 
